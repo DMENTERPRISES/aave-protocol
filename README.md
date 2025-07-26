@@ -60,6 +60,3 @@ We will promise the following:
 
     As a token of our gratitude for your assistance, we offer a reward for every report of a security problem that was not yet known to us. The amount of the reward will be determined based on the severity of the leak, the quality of the report and any additional assistance you provide.  
 
-## License
-
-The Aave Protocol is under [the AGPL v3 license](LICENSE.md)
